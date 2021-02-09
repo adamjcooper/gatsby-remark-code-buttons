@@ -28,9 +28,9 @@
   },
   "homepage": "https://github.com/iamskok/gatsby-remark-code-buttons#readme",
   "devDependencies": {
-    "@babel/cli": "7.10.1",
-    "@babel/core": "7.10.2",
-    "@babel/preset-env": "7.10.2",
+    "@babel/cli": "7.12.13",
+    "@babel/core": "7.12.13",
+    "@babel/preset-env": "7.12.13",
     "node-sass": "4.14.1"
   },
   "dependencies": {
